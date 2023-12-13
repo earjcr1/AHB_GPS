@@ -1,4 +1,10 @@
-Building on the compilation of Stevens and Avouac (2021), we compiled GNSS data (and their uncertainties) throughout Asia from Kreemer et al. (2014), from the updated MIDAS velocity set (Blewitt et al., 2018; accessed 2021), and from literature published since 2014 (refs below). We rotate these velocities into the Kreemer et al. (2014) definition of the fixed-Eurasia reference frame (V. Stevens, pers. comm., 2020). We then keep only the horizontal or vertical velocities that have estimated uncertainties of <=1.5 mm/yr, were derived from at least 2.5 years of data [Blewitt and Lavallee, 2002], and (if campaign data) were derived using at least 3 site occupations [England et al., 2016]. Finally, we then take the median of velocities at stations within 5 km of one another, including those at the same station published by different studies. This yields 3,289 east and north velocities. 
+Building on the compilation of Stevens and Avouac (2021), we compiled GNSS data (and their uncertainties) throughout Asia from Kreemer et 
+al. (2014), from the updated MIDAS velocity set (Blewitt et al., 2018; accessed 2021), and from literature published since 2014 (refs 
+below). We rotate these velocities into the Kreemer et al. (2014) definition of the fixed-Eurasia reference frame (V. Stevens, pers. comm., 
+2020). We then keep only the horizontal or vertical velocities that have estimated uncertainties of <=1.5 mm/yr, were derived from at least 
+2.5 years of data [Blewitt and Lavallee, 2002], and (if campaign data) were derived using at least 3 site occupations [England et al., 
+2016]. Finally, we then take the median of velocities at stations within 5 km of one another, including those at the same station published 
+by different studies. This yields 3,289 east and north velocities. 
 
 
 References:
