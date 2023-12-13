@@ -6,6 +6,7 @@ below). We rotate these velocities into the Kreemer et al. (2014) definition of 
 2016]. Finally, we then take the median of velocities at stations within 5 km of one another, including those at the same station published 
 by different studies. This yields 3,289 east and north velocities. 
 
+The format of the GNSS file is: lon, lat, v_east, v_ north, s_east, s_north, correlation (assumed 0), placeholder for code (for VELMAP input purposes).
 
 References:
 G. Blewitt, W. C. Hammond, C. J. E. Kreemer, Harnessing the GPS data explosion for interdisciplinary science. 99, 485 (2018). 
